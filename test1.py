@@ -2,7 +2,7 @@ import unittest
 
 class TestCaseDemo(unittest.TestCase):
     def setUp(self):
-        print("This is setUp method.")
+        print("This is setUp Method.")
     def test1(self):
         print("This is test method.")
     def test2(self):
